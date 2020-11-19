@@ -29,7 +29,7 @@ YPuede consultar las guías para PC <a href="https://symblox.github.io/guides/yi
 <img src="/assets/AddToken_1.png" width="400"/>
 </p>  
 
-Click the + sign.
+Haga clic en el signo +.
 <p align="center">
 <img src="/assets/AddToken_2.png" width="400"/>
 </p>    
