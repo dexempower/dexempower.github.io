@@ -6,7 +6,7 @@ permalink: /
 
 ![Symblox Logo](assets/SymbloxLogoName.png "Symblox Logo")
 
-# Guías de usuario sobre Symblox
+# Symblox - Manuales de usuario
 
 -   [MetaMask Usage Guide for Desktop](https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc) 
 
