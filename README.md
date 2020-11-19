@@ -12,4 +12,4 @@ permalink: /
 
 -   [Quick Guide for Velas Mobile Wallet](https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
 
--   [Guía de votación de Symblox para dispositivos móviles](https://github.com/symblox/symblox.github.io/blob/master/_posts/2020-11-05-Symblox-Voting-Guide.md)
+-   [Guía de Votación en Symblox desde dispositivos móviles](https://github.com/symblox/symblox.github.io/blob/master/_posts/2020-11-05-Symblox-Voting-Guide.md)
