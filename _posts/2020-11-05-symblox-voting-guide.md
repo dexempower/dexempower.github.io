@@ -112,3 +112,5 @@ Cuando termine, aparecerá una ventana emergente verde, "¡Su propuesta está li
 <p align="center">
 <img src="/assets/Voting_13.png" width="400"/>
 </p>    
+
+
