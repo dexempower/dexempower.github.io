@@ -6,10 +6,10 @@ permalink: /
 
 ![Symblox Logo](assets/SymbloxLogoName.png "Symblox Logo")
 
-# Symblox User's Guides
+# Guías de usuario sobre Symblox
 
--   [MetaMask Usage Guide for Desktop](https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc)
+-   [MetaMask Usage Guide for Desktop](https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc) 
 
 -   [Quick Guide for Velas Mobile Wallet](https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
 
--   [Symblox Voting Guide for Mobile](https://github.com/symblox/symblox.github.io/blob/master/_posts/2020-11-05-Symblox-Voting-Guide.md)
+-   [Guía de votación de Symblox para dispositivos móviles](https://github.com/symblox/symblox.github.io/blob/master/_posts/2020-11-05-Symblox-Voting-Guide.md)
