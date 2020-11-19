@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Symblox Voting Guide"
-date: 2020-11-05 17:18:00 +0800
-categories: guides voting
+title: "Symblox Quick Guide for Mobile"
+date: 2020-10-22 16:05:00 +0800
+categories: guides yield-farming
 ---
 
 ![](https://symblox.github.io/assets/SymbloxLogoName.png)
