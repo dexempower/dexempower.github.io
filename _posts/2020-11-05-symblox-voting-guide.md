@@ -45,8 +45,8 @@ Los otros campos se llenarán automáticamente. Haga clic en 'Listo' para finali
 
 ### Iniciar la votación on-chain
 
-##### Lanzar Sitio de Votación  
-Open Velas DeFi Wallet and go to the 'Symblox' tab.  
+##### Lanzar Lugar de Votado  
+Abra Velas DeFi Wallet y vaya a la pestaña 'Symblox'.  
 (1) Escriba en el campo de dirección: https://vote.symblox.io
 (2) Cuando el sitio esté cargado, haga clic en el icono del monedero.
 <p align="center">
