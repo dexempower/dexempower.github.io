@@ -5,8 +5,6 @@ date: 2020-11-05 17:18:00 +0800
 categories: guides voting
 ---
 
-# [symblox.github.io](https://symblox.github.io/)
-
 ![](https://symblox.github.io/assets/SymbloxLogoName.png)
 
 # Guía rápida de Symblox para smartphone
