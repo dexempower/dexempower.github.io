@@ -1,5 +1,5 @@
 ---
-layout: página
+layout: page
 title: "Symblox - Guía de Votación"
 fecha: 2020-11-19 18:00:00 +0800
 categories: guides voting
