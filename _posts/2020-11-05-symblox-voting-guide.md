@@ -2,7 +2,7 @@
 layout: page
 title: "Symblox Voting Guide"
 date: 2020-11-05 17:18:00 +0800
-categories: guides voting
+categories: guides yield-farming
 ---
 
 <p align="center">
