@@ -8,7 +8,7 @@ permalink: /
 
 # Symblox - Manuales de usuario
 
--   [MetaMask Usage Guide for Desktop](https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc) 
+-   [MetaMask Usage Guide for Desktop](https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc)  *WORK IN PROGRESS*
 
 -   [Quick Guide for Velas Mobile Wallet](https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
 
