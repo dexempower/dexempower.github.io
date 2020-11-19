@@ -12,4 +12,4 @@ permalink: /
 
 -   [Quick Guide for Velas Mobile Wallet](https://dexempower.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
 
--   [Guía de Votación en Symblox desde Dispositivos Móviles](https://dexempower.github.io/guides/yield-farming/2020/11/05/Symblox-Voting-Guide)
+-   [Guía de Votación en Symblox desde Dispositivos Móviles](https://dexempower.github.io/guides/yield-farming/2020/11/05/symblox-voting-guide)
