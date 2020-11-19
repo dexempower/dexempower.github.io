@@ -2,7 +2,7 @@
 layout: página
 title: "Symblox - Guía de Votación"
 fecha: 2020-11-05 17:18:00 +0800
-categories: guía de votación en español
+categories: guides voting
 ---
 
 <p align="center">
