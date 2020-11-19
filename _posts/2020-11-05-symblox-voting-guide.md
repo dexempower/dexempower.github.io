@@ -9,33 +9,33 @@ categories: guides voting
 <img src="/assets/SymbloxLogoName.png" height:"64"/>
 </p>
 
-# Symblox Voting Guide for Mobile
+# Guía de votación en Symblox para dispositivos móviles
 
->There is no lock-up for voting on-chain, you only need to verify the wallet balance. That is, before the proposal voting starts (each time the voting starts, the Admin will publish an announcement in <a href="https://t.me/Symblox" target="_blank">Symblox Telegram Channel</a>), you need to have SYX in your wallet for the duration of the voting process to participate in the voting. After voting, you can use the SYX tokens in the wallet at any time.  
-**When delegating to someone else, you only need to refer to the wallet address of the delegate, you do not need to transfer SYX tokens to the delegate's wallet.**  
+> No hay ningún bloqueo para votar on-chain, solo necesita verificar el saldo de su monedero. Es decir, antes de que comience la votación de la propuesta (cada vez que comience la votación, el administrador publicará un anuncio en <a href="https://t.me/Symblox" target="_blank"> Canal de Telegram de Symblox </a> ), debe tener SYX en su monedero durante el proceso de votación para participar en la votación. Después de votar, puede usar los tokens SYX en su monedero en cualquier momento.
+** Al delegar en otra persona, solo necesita referirse a la dirección de billetera del delegado, no necesita transferir tokens SYX a la billetera del delegado. **
 
 
-##### Installing Velas Defi Wallet  
-If you haven't done so already, please download the Velas DeFi Wallet at https://symblox.io.  
-You can check guides for mobile <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-mobile" target="_blank">here</a>.  
-You can check guides for PC <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc" target="_blank">here</a>. 
+##### Instalación de Velas Defi Wallet  
+Si aún no lo ha hecho, descargue Velas DeFi Wallet en https://symblox.io.  
+Puedes consultar las guías para móviles <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-mobile" target="_blank">aquí</a>.  
+YPuede consultar las guías para PC <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc" target="_blank">aquí</a>. 
 
-##### Adding Symblox token contract to wallet
+##### Agregar contrato de token Symblox al monedero
 
-(1) Load Velas Defi Wallet and click on the 'Wallet' tab.  
-(2) If Symblox token isn't listed in your wallet then click on 'Add/Hide Tokens'.  
+(1) Cargue Velas Defi Wallet y haga clic en la pestaña 'Wallet'.  
+(2) Si el token Symblox no aparece en su monedero, haga clic en 'Agregar / Ocultar tokens'.  
 
 <p align="center">
 <img src="/assets/AddToken_1.png" width="400"/>
 </p>  
 
-Click the + sign.
+Haga clic en el signo +.
 <p align="center">
 <img src="/assets/AddToken_2.png" width="400"/>
 </p>    
 
-Add the folowing address to the 'Contract Address' field: **0x2de7063fe77aAFB5b401d65E5A108649Ec577170**  
-The other fields will fill automatically. Click 'Done' to finish.
+Agregue la siguiente dirección al campo 'Dirección del contrato': **0x2de7063fe77aAFB5b401d65E5A108649Ec577170**  
+Los otros campos se llenarán automáticamente. Haga clic en 'Listo' para finalizar.
 <p align="center">
 <img src="/assets/AddToken_3.png" width="400"/>
 </p>    
@@ -43,73 +43,72 @@ The other fields will fill automatically. Click 'Done' to finish.
 
 ---
 
-### Initiating on-chain voting 
+### Iniciar la votación on-chain
 
-##### Launch Voting Site  
-Open Velas DeFi Wallet and go to the 'Symblox' tab.  
-(1) Type in the address field: https://vote.symblox.io  
-(2) When the site is loaded, click on the wallet icon.
+##### Lanzar Lugar de Votado  
+Abra Velas DeFi Wallet y vaya a la pestaña 'Symblox'.  
+(1) Escriba en el campo de dirección: https://vote.symblox.io
+(2) Cuando el sitio esté cargado, haga clic en el icono del monedero.
 <p align="center">
 <img src="/assets/Voting_1.png" width="400"/>
 </p>  
 
-Choose 'Velas'.
+Elija 'Velas'.
 <p align="center">
 <img src="/assets/Voting_2.png" width="400"/>
 </p>  
 
-Click on 'Active' tab *or* click on the Active (blue) proposal to be voted from the list and skip next section.
+Haga clic en la pestaña 'Activa' * o * haga clic en la propuesta Activa (azul) de votación en la lista y pase a la siguiente sección.
 <p align="center">
 <img src="/assets/Voting_3.png" width="400"/>
 </p>  
 
-Click on the proposal to be voted on. (Blue **Active** Button)
+Haga clic en la propuesta de votación. (Botón azul ** activo **)
 <p align="center">
 <img src="/assets/Voting_4.png" width="400"/>
 </p>   
 
-Click on wallet icon.
+Haga clic en el icono del moendero.
 <p align="center">
 <img src="/assets/Voting_5.png" width="400"/>
 </p>   
 
-Click 'Set delegatee'.
+Haga clic en 'Establecer delegado'.
 <p align="center">
 <img src="/assets/Voting_6.png" width="400"/>
 </p>  
 
-Paste your wallet address or the wallet address you want to delegate to and click 'Delegate'.
+Pegue la dirección de su billetera o la dirección de la billetera a la que desea delegar y haga clic en 'Delegar'.
 <p align="center">
 <img src="/assets/Voting_7.png" width="400"/>
 </p>   
 
-Click 'Send' to initiate transaction.
+Haga clic en 'Enviar' para iniciar la transacción.
 <p align="center">
 <img src="/assets/Voting_8.png" width="400"/>
 </p>   
 
-Click 'X' to close delegation screen.
+Haga clic en 'X' para cerrar la pantalla de delegación.
 <p align="center">
 <img src="/assets/Voting_9.png" width="400"/>
 </p>    
 
-Cast your vote yes/no then click 'Vote'.
+Emita su voto sí / no y luego haga clic en "Votar".
 <p align="center">
 <img src="/assets/Voting_10.png" width="400"/>
 </p>    
 
-Confirm your vote and click 'Vote'.
+Confirme su voto y haga clic en "Votar".
 <p align="center">
 <img src="/assets/Voting_11.png" width="400"/>
 </p>    
 
-Click 'Send' to initiate transaction.
+Haga clic en 'Enviar' para iniciar la transacción.
 <p align="center">
 <img src="/assets/Voting_12.png" width="400"/>
 </p>    
 
-When done, a green popup, 'Your proposal is in!' is displayed to confirm your vote has been cast.
+Cuando termine, aparecerá una ventana emergente verde, "¡Su propuesta está lista!" se mostrará para confirmar que se ha emitido su voto.
 <p align="center">
 <img src="/assets/Voting_13.png" width="400"/>
 </p>    
-
