@@ -5,8 +5,7 @@ date: 2020-11-05 17:18:00 +0800
 categories: guides voting
 ---
 
-<p align="center">
-<img src="/assets/SymbloxLogoName.png" height:"64"/>
+<img src="/assets/SymbloxLogoName.png" align="center" style="height: 64px"/>
 </p>
 
 # Guía de votación en Symblox para dispositivos móviles
