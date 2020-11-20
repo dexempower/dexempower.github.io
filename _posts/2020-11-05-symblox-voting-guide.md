@@ -1,4 +1,4 @@
-https://github.com/dexempower/dexempower.github.io-symblox/blob/master/assets/AddToken_1.png?raw=true---
+---
 layout: page
 title: "Symblox Voting Guide"
 date: 2020-11-05 17:18:00 +0800
