@@ -1,4 +1,4 @@
----
+https://github.com/dexempower/dexempower.github.io-symblox/blob/master/assets/AddToken_1.png?raw=true---
 layout: page
 title: "Symblox Voting Guide"
 date: 2020-11-05 17:18:00 +0800
@@ -24,7 +24,7 @@ Puede consultar las guías para PC <a href="https://symblox.github.io/guides/yie
 (2) Si el token Symblox no aparece en su monedero, haga clic en 'Agregar / Ocultar tokens'.  
 
 <p align="center">
-<img src="/assets/AddToken_1.png" width="400"/>
+<img src="/https://github.com/dexempower/dexempower.github.io-symblox/blob/master/assets/AddToken_1.png?raw=true" width="400"/>
 </p>  
 
 Haga clic en el signo +.
