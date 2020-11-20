@@ -16,7 +16,7 @@ categories: guides voting
 ##### Instalación de Velas Defi Wallet  
 Si aún no lo ha hecho, descargue Velas DeFi Wallet en https://symblox.io.  
 Puedes consultar las guías para móviles <a href="https://dexempower.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-mobile" target="_blank">aquí</a>.  
-YPuede consultar las guías para PC <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc" target="_blank">aquí</a>. 
+Puede consultar las guías para PC <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc" target="_blank">aquí</a>. 
 
 ##### Agregar contrato de token Symblox al monedero
 
