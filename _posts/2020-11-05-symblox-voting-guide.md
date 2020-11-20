@@ -10,7 +10,7 @@ categories: guides voting
 # Guía de Votación en Symblox para Dispositivos Móviles
 
 > No hay ningún bloqueo para votar on-chain, solo necesita verificar el saldo de su monedero. Es decir, antes de que comience la votación de la propuesta (cada vez que comience la votación, el administrador publicará un anuncio en <a href="https://t.me/Symblox" target="_blank"> Canal de Telegram de Symblox </a> ), debe tener SYX en su monedero durante el proceso de votación para participar en la votación. Después de votar, puede usar los tokens SYX en su monedero en cualquier momento.
-** Al delegar en otra persona, solo necesita referirse a la dirección de billetera del delegado, no necesita transferir tokens SYX a la billetera del delegado. **
+**Al delegar en otra persona, solo necesita referirse a la dirección de billetera del delegado, no necesita transferir tokens SYX a la billetera del delegado.**
 
 
 ##### Instalación de Velas Defi Wallet  
