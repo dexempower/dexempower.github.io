@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Symblox Voting Guide"
-date: 2020-10-05 17:18:00 +0800
+date: 2020-11-05 17:18:00 +0800
 categories: guides voting
 ---
 
