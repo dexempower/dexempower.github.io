@@ -29,13 +29,13 @@ Puede consultar las guías para PC <a href="https://symblox.github.io/guides/yie
 
 Haga clic en el signo +.
 <p align="center">
-<img src="/assets/AddToken_2.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/AddToken_2.png" width="400"/>
 </p>    
 
 Agregue la siguiente dirección al campo 'Dirección del contrato': **0x2de7063fe77aAFB5b401d65E5A108649Ec577170**  
 Los otros campos se llenarán automáticamente. Haga clic en 'Listo' para finalizar.
 <p align="center">
-<img src="/assets/AddToken_3.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/AddToken_3.png" width="400"/>
 </p>    
 
 
@@ -48,66 +48,66 @@ Abra Velas DeFi Wallet y vaya a la pestaña 'Symblox'.
 (1) Escriba en el campo de dirección: https://vote.symblox.io
 (2) Cuando el sitio esté cargado, haga clic en el icono del monedero.
 <p align="center">
-<img src="/assets/Voting_1.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_1.png" width="400"/>
 </p>  
 
 Elija 'Velas'.
 <p align="center">
-<img src="/assets/Voting_2.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_2.png" width="400"/>
 </p>  
 
 Haga clic en la pestaña 'Activa' * o * haga clic en la propuesta Activa (azul) de votación en la lista y pase a la siguiente sección.
 <p align="center">
-<img src="/assets/Voting_3.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_3.png" width="400"/>
 </p>  
 
 Haga clic en la propuesta de votación. (Botón azul ** activo **)
 <p align="center">
-<img src="/assets/Voting_4.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_4.png" width="400"/>
 </p>   
 
 Haga clic en el icono del moendero.
 <p align="center">
-<img src="/assets/Voting_5.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_5.png" width="400"/>
 </p>   
 
 Haga clic en 'Establecer delegado'.
 <p align="center">
-<img src="/assets/Voting_6.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_6.png" width="400"/>
 </p>  
 
 Pegue la dirección de su billetera o la dirección de la billetera a la que desea delegar y haga clic en 'Delegar'.
 <p align="center">
-<img src="/assets/Voting_7.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_7.png" width="400"/>
 </p>   
 
 Haga clic en 'Enviar' para iniciar la transacción.
 <p align="center">
-<img src="/assets/Voting_8.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_8.png" width="400"/>
 </p>   
 
 Haga clic en 'X' para cerrar la pantalla de delegación.
 <p align="center">
-<img src="/assets/Voting_9.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_9.png" width="400"/>
 </p>    
 
 Emita su voto sí / no y luego haga clic en "Votar".
 <p align="center">
-<img src="/assets/Voting_10.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_10.png" width="400"/>
 </p>    
 
 Confirme su voto y haga clic en "Votar".
 <p align="center">
-<img src="/assets/Voting_11.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_11.png" width="400"/>
 </p>    
 
 Haga clic en 'Enviar' para iniciar la transacción.
 <p align="center">
-<img src="/assets/Voting_12.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_12.png" width="400"/>
 </p>    
 
 Cuando termine, aparecerá una ventana emergente verde, "¡Su propuesta está lista!" se mostrará para confirmar que se ha emitido su voto.
 <p align="center">
-<img src="/assets/Voting_13.png" width="400"/>
+<img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_13.png" width="400"/>
 </p>    
 
