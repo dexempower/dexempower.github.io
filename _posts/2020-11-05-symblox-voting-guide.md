@@ -66,7 +66,7 @@ Haga clic en la propuesta de votación. (Botón azul ** activo **)
 <img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_4.png" width="400"/>
 </p>   
 
-Haga clic en el icono del moendero.
+Haga clic en el icono del monedero.
 <p align="center">
 <img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_5.png" width="400"/>
 </p>   
@@ -76,7 +76,7 @@ Haga clic en 'Establecer delegado'.
 <img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_6.png" width="400"/>
 </p>  
 
-Pegue la dirección de su billetera o la dirección de la billetera a la que desea delegar y haga clic en 'Delegar'.
+Pegue la dirección de su monedero o la dirección del monedero a la que desea delegar y haga clic en 'Delegar'.
 <p align="center">
 <img src="https://raw.githubusercontent.com/dexempower/dexempower.github.io-symblox/master/assets/Voting_7.png" width="400"/>
 </p>   
