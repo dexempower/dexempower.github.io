@@ -108,6 +108,7 @@ Haga clic en el botón 'Abrir Cross-Chain' o escriba en el campo de dirección:
 </p>  
 
 (1) Haga clic en el botón de menú.
+
 (2) Si aún no ha elegido 'Ethereum' , haga clic en 'Conectado a:' para elegir la red Ethereum.
 <p align="center">
 <img src="/assets/Bridge_8.png" width="400"/>
@@ -162,6 +163,7 @@ Después de la transferencia, puede verificar su 'Balance' para ver la cantidad 
 <br>
 
 (1) Haga clic en el botón de menú.
+
 (2) Si aún no está conectado a Velas, haga clic en 'Conectado a:' para cambiar su red actual.  
 <p align="center">
 <img src="/assets/Bridge_15.png" width="400"/>
