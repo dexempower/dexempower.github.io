@@ -292,7 +292,7 @@ Haga clic en 'Confirmar' para finalizar o en 'Edit/Editar' para cambiar las tari
 </details>
   
 <details>
-<summary>Transferring WETH on Velas back to Ethereum blockchain.</summary>  
+<summary>Transfiriendo WETH en Velas de nuevo a Ethereum blockchain.</summary>  
 <br>
 
 Desde la página de cross-chain:  
