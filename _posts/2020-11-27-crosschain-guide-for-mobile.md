@@ -185,7 +185,7 @@ Verifique la cantidad y luego haga clic en 'Continuar'.
 </details>
 
 <details>
-<summary>Transferring WETH on Ethereum to Velas blockchain.</summary>  
+<summary>Transfiriendo WETH en Ethereum a Velas blockchain.</summary>  
 <br>
 
 Dentro de la aplicación DeFi Wallet, vaya a la página de inicio. Luego haga clic en el botón 'Abrir Crosschain'. 
