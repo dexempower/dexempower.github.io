@@ -66,10 +66,10 @@ Dirección del token SYX: **0x2de7063fe77aAFB5b401d65E5A108649Ec577170**
 </details>
 
 <details>
-<summary>Añadiendo contrato de token WETH para Ethereum y Velas.</summary>  
+<summary>Añadiendo el contrato de token WETH para Ethereum y Velas.</summary>  
 <br>
   
-Haga clic en la pestaña 'Monedero', luego haga clic en 'Añadir / Ocultar tokens'.
+Haga clic en la pestaña 'Wallet/Monedero', luego haga clic en 'Añadir / Ocultar tokens'.
 
 <p align="center">
 <img src="/assets/Bridge_3.png" width="400"/>
@@ -322,7 +322,7 @@ Haga clic en 'Connect/Conectar Wallet', luego haga clic en la lista desplegable 
 <img src="/assets/WETH_20.png" width="400"/>
 </p>  
 
-Confirm transaction and click 'OK' to continue.  
+Confirme la transacción y haga clic en 'Accept/Aceptar' para continuar. 
 <p align="center">
 <img src="/assets/WETH_21.png" width="400"/>
 </p>  
