@@ -46,7 +46,7 @@ Haga clic en el signo '+'.
 <img src="/assets/Bridge_4.png" width="400"/>
 </p>  
 
-Pegue la siguiente dirección en el campo 'Dirección del contrato' para agregar el token USDT en Ethereum. Los otros campos se completarán automáticamente cuando pegue la dirección.
+Pegue la siguiente dirección en el campo 'Contract Address/Dirección del contrato' para agregar el token USDT en Ethereum. Los otros campos se completarán automáticamente cuando pegue la dirección.
 USDT en Ethereum:**0xdAC17F958D2ee523a2206206994597C13D831ec7**  
 <p align="center">
 <img src="/assets/Bridge_5.png" width="400"/>
@@ -80,7 +80,7 @@ Haga clic en el signo '+'.
 <img src="/assets/Bridge_4.png" width="400"/>
 </p>  
 
-Pegue la siguiente dirección en el campo 'Dirección del contrato' para agregar el token WETH en Ethereum. Los otros campos se completarán automáticamente cuando pegue la dirección.
+Pegue la siguiente dirección en el campo 'Contract Address/Dirección del contrato' para agregar el token WETH en Ethereum. Los otros campos se completarán automáticamente cuando pegue la dirección.
 WETH en Ethereum: **0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2**  
 <p align="center">
 <img src="/assets/WETH_CONTRACT.png" width="400"/>
