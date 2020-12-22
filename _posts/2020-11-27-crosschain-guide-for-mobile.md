@@ -1,4 +1,3 @@
----
 layout: page
 title: "Crosschain Guide for Mobile"
 date: 2020-11-27 05:20:00 +0800
@@ -9,87 +8,84 @@ categories: guides yield-farming
 <img src="/assets/SymbloxLogoName.png" height="64"/>
 </p>
 
-# Cross-chain Guide for Mobile
+# Cross-chain Guía para Móviles
 
 ##### Installing Velas Defi Wallet  
-Download the Velas DeFi Wallet at https://symblox.io.  
-You can check guides for mobile <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-mobile" target="_blank">here</a>.  
-You can check guides for PC <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc" target="_blank">here</a>. 
+Descarga Velas DeFi Wallet en https://symblox.io.  
 
---- 
-# Configuring Velas Defi Wallet  
+# Configurando Velas Defi Wallet
 
 <details>
-<summary>Adding Ethereum Network.</summary>  
+<summary>Agregar la red de Ethereum.</summary>  
 <br>
   
-Click on 'Settings' tab, then choose "Select Active Networks"  
+Haga clic en la pestaña 'Ajustes', luego elija "Seleccionar redes activas"  
 <p align="center">
 <img src="../assets/Bridge_1.png" width="400"/>
 </p>  
 
-Choose 'Ethereum' then click 'Save'.  
+Elija 'Ethereum' y luego haga clic en 'Guardar'.
 <p align="center">
 <img src="/assets/Bridge_2.png" width="400"/>
 </p>  
 </details>
 
 <details>
-<summary>Adding USDT token contract for Ethereum and Velas.</summary>  
+<summary>Añadiendo el contrato del token USDT para Ethereum y Velas.</summary>  
 <br>
   
-Click on the 'Wallet' tab, then click on 'Add/Hide Tokens'.
+Haga clic en la pestaña 'Monedero', luego haga clic en 'Añadir / Ocultar tokens'.
 
 <p align="center">
 <img src="/assets/Bridge_3.png" width="400"/>
 </p>  
 
-Click the '+' sign.  
+Haga clic en el signo '+'.  
 <p align="center">
 <img src="/assets/Bridge_4.png" width="400"/>
 </p>  
 
-Paste the following address in the 'Contract Address' field to add USDT token on Ethereum. The other fields will autofill when you paste the address.  
-USDT on Ethereum: **0xdAC17F958D2ee523a2206206994597C13D831ec7**  
+Pegue la siguiente dirección en el campo 'Dirección del contrato' para agregar el token USDT en Ethereum. Los otros campos se completarán automáticamente cuando pegue la dirección.
+USDT en Ethereum:**0xdAC17F958D2ee523a2206206994597C13D831ec7**  
 <p align="center">
 <img src="/assets/Bridge_5.png" width="400"/>
 </p>  
 
-Repeat the process to add USDT on Velas.  
-USDT on Velas: **0x4b773e1ae1baa4894e51cc1d1faf485c91b1012f**  
+Repita el proceso para agregar USDT en Velas.
+USDT en Velas: **0x4b773e1ae1baa4894e51cc1d1faf485c91b1012f**  
 <p align="center">
 <img src="/assets/Bridge_6.png" width="400"/>
 </p>  
 
-If you haven't added SYX token yet, you can repeat the previous process to add SYX.  
-SYX Token Address: **0x2de7063fe77aAFB5b401d65E5A108649Ec577170**  
+Si aún no ha agregado el token SYX, puede repetir el proceso anterior para agregar SYX. 
+Dirección del token SYX: **0x2de7063fe77aAFB5b401d65E5A108649Ec577170**  
 <p align="center">
 <img src="/assets/AddToken_3.png" width="400"/>
 </p>    
 </details>
 
 <details>
-<summary>Adding WETH token contract for Ethereum and Velas.</summary>  
+<summary>Añadiendo contrato de token WETH para Ethereum y Velas.</summary>  
 <br>
   
-Click on the 'Wallet' tab, then click on 'Add/Hide Tokens'.
+Haga clic en la pestaña 'Monedero', luego haga clic en 'Añadir / Ocultar tokens'.
 
 <p align="center">
 <img src="/assets/Bridge_3.png" width="400"/>
 </p>  
 
-Click the '+' sign.  
+Haga clic en el signo '+'.  
 <p align="center">
 <img src="/assets/Bridge_4.png" width="400"/>
 </p>  
 
-Paste the following address in the 'Contract Address' field to add WETH token on Ethereum. The other fields will autofill when you paste the address.  
-WETH on Ethereum: **0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2**  
+Pegue la siguiente dirección en el campo 'Dirección del contrato' para agregar el token WETH en Ethereum. Los otros campos se completarán automáticamente cuando pegue la dirección.
+WETH en Ethereum: **0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2**  
 <p align="center">
 <img src="/assets/WETH_CONTRACT.png" width="400"/>
 </p>  
 
-Repeat the process to add WETH on Velas:  
+Repita el proceso para agregar WETH en Velas: 
 **V67RMNXTgYKi9CsmrSXvFfLAiubfWB5p34**  
 <p align="center">
 <img src="/assets/VWETH_CONTRACT.png" width="400"/>
@@ -97,90 +93,90 @@ Repeat the process to add WETH on Velas:
 </p>    
 </details>
  
-# Using TokenBridge  
+# Utilizando TokenBridge  
 
 <details>
-<summary>Transferring USDT on Ethereum to Velas blockchain.</summary>  
+<summary>Transfiriendo USDT en Ethereum a Velas blockchain.</summary>  
 <br>
   
-Click 'Symblox' tab, then goto homepage: <a href="https://symblox.io/" target="_blank">https://symblox.io/</a>  
-Click 'Open Cross-chain' button or type in the address field:  
+Haga clic en la pestaña 'Symblox', luego vaya a la página de inicio: <a href="https://symblox.io/" target="_blank">https://symblox.io/</a>  
+Haga clic en el botón 'Abrir Cross-Chain' o escriba en el campo de dirección:  
 <a href="https://x.symblox.io/" target="_blank">https://x.symblox.io/</a>  
 <p align="center">
 <img src="/assets/Bridge_7.png" width="400"/>
 </p>  
 
-(1) Click the menu button.  
-(2) If 'Ethereum' isn't already chosen, click the 'Connected to:' to choose the Ethereum Network.  
+(1) Haga clic en el botón de menú.
+(2) Si aún no ha elegido 'Ethereum' , haga clic en 'Conectado a:' para elegir la red Ethereum.
 <p align="center">
 <img src="/assets/Bridge_8.png" width="400"/>
 </p>  
 
-Choose 'Ethereum'.  
+Elija 'Ethereum'.
 <p align="center">
 <img src="/assets/Bridge_19.png" width="400"/>
 </p>  
 
-Click 'Connect Wallet'.  
+Haga clic en 'Conectar Monedero'.
 <p align="center">
 <img src="/assets/Bridge_20.png" width="400"/>
 </p>  
 
 >The first time you use the cross-chain, the smart contract will require permission before accessing your wallet. Therefore it requires you to *unlock* before transferring.   
 
-Enter amount to transfer then click 'Unlock'.  
+Ingrese la cantidad a transferir y luego haga clic en 'Unlock/Desbloquear'.
 <p align="center">
 <img src="/assets/Bridge_9.png" width="400"/>
 </p>  
 
-Click 'Confirm' to send or click 'Edit' to manually change the gas fees.  
+Haga clic en 'Confirmar' para enviar o haga clic en 'Editar' para cambiar manualmente las tarifas de gas.  
 <p align="center">
 <img src="/assets/Bridge_10.png" width="400"/>
 </p>  
 
->Due to heavy congestion on the Ethereum network, transactions could take a long time or get stuck. If you've waited for a sufficient period of time and is still at the 'Loading...' screen, try reloading the webpage to see if your transaction has cleared.  
+> Debido a la gran congestión en la red Ethereum, las transacciones pueden llevar mucho tiempo o incluso atascarse. Si ha esperado un período de tiempo suficiente y todavía está en la pantalla 'Cargando ...', intente volver a cargar la página web para ver si su transacción se ha liquidado.
 
 <p align="center">
 <img src="/assets/Bridge_11.png" width="400"/>
 </p>  
 
-After you have 'Unlocked', click 'Transfer'.  
+Una vez que haya 'Desbloqueado', haga clic en 'Transferir'.
 <p align="center">
 <img src="/assets/Bridge_12.png" width="400"/>
 </p>  
 
-Verify your transfer amount then click 'Continue'.  
+Verifique el monto de su transferencia y luego haga clic en 'Continuar'.
 <p align="center">
 <img src="/assets/Bridge_13.png" width="400"/>
 </p>  
 
-After transfer, you can check your 'Balance' to see the amount transferred.  
+Después de la transferencia, puede verificar su 'Balance' para ver la cantidad transferida. 
 <p align="center">
 <img src="/assets/Bridge_14.png" width="400"/>
 </p>  
 </details>
 
 <details>
-<summary>Transferring USDT from Velas back to the Ethereum blockchain.</summary>
+<summary>Transfiriendo USDT de Velas de vuelta a la cadena de bloques Ethereum.</summary>
 <br>
 
-(1) Click the menu button.  
-(2) If you're not connected to Velas already, click 'Connected to:' to change your current network.  
+(1) Haga clic en el botón de menú.
+(2) Si aún no está conectado a Velas, haga clic en 'Conectado a:' para cambiar su red actual.  
 <p align="center">
 <img src="/assets/Bridge_15.png" width="400"/>
 </p>  
 
-Choose 'Velas'.  
+Elija 'Velas'.
 <p align="center">
 <img src="/assets/Bridge_16.png" width="400"/>
 </p>  
 
-Enter the amount to send then click 'Transfer'.  
+Ingrese la cantidad a enviar y luego haga clic en 'Transfer/Transferir'.
 <p align="center">
 <img src="/assets/Bridge_17.png" width="400"/>
 </p>  
 
-Verify the amount then click 'Continue'.  
+Verifique la cantidad y luego haga clic en 'Continuar'.
 <p align="center">
 <img src="/assets/Bridge_18.png" width="400"/>
 </p>  
@@ -191,103 +187,103 @@ Verify the amount then click 'Continue'.
 <summary>Transferring WETH on Ethereum to Velas blockchain.</summary>  
 <br>
 
-Within DeFi Wallet app, go to homepage. Then click the 'Open Cross-chain' button.  
+Dentro de la aplicación DeFi Wallet, vaya a la página de inicio. Luego haga clic en el botón 'Abrir Crosschain'. 
 <p align="center">
 <img src="/assets/WETH_1.png" width="400"/>
 </p>
 
-1. Click on the menu.  
-2. Click 'Connected to:'  
+1. Haga clic en el menú.  
+2. Haga clic en 'Conectado a:'
 
 <p align="center">
 <img src="/assets/WETH_2.png" width="400"/>
 </p>  
 
-Click on 'Ethereum'.  
+Haga clic en 'Ethereum'. 
 <p align="center">
 <img src="/assets/WETH_3.png" width="400"/>
 </p>  
 
-1. Click 'Connect Wallet'.
-2. Click 'Wrap/Unwrap ETH' to load Kyber widget.  
+1. Haga clic en 'Conectar Monedero'.
+2. Haga clic en 'Wrap / Unwrap ETH' para cargar el widget Kyber.
 
 <p align="center">
 <img src="/assets/WETH_4.png" width="400"/>
 </p>  
 
-Enter amount to transfer then checkbox agreement. Click 'Next' to continue.  
+Ingrese el monto a transferir y luego marque los términos de acuerdo. Presione siguiente para continuar.  
 
 <p align="center">
 <img src="/assets/WETH_5.png" width="400"/>
 </p>  
 
->Note*** Make sure you have enough ETH reserved to pay for transaction fees.  
+> Nota *** Asegúrese de tener suficiente ETH reservado para pagar las tarifas de transacción. 
 
-Verify the amount to be swapped then click 'CONFIRM'.  
+Verifique la cantidad a intercambiar y luego haga clic en 'CONFIRMAR'.
 
 <p align="center">
 <img src="/assets/WETH_6.png" width="400"/>
 </p>  
 
-Click 'Confirm' to finish transaction, or click 'Edit' to change gas fees.  
+Haga clic en 'Confirmar' para finalizar la transacción o haga clic en 'Editar' para cambiar las tarifas de gas.  
 <p align="center">
 <img src="/assets/WETH_7.png" width="400"/>
 </p>  
 
-You can optionally increase the fee to reduce wait time.  
+Opcionalmente, puede aumentar la tarifa para reducir el tiempo de espera. 
 <p align="center">
 <img src="/assets/WETH_8.png" width="400"/>
 </p>  
 
-Once confirmed and broadcasted, a transaction id is created.  
+Una vez confirmada y transmitida, se crea una identificación de transacción.  
 
 <p align="center">
 <img src="/assets/WETH_9.png" width="400"/>
 </p>  
 
-From the cross-chain screen:
-1. Click on the drop-down list.   
-2. Choose WETH from the list.  
+Desde la pantalla de Cross-Chain:
+1. Haga clic en la lista desplegable.  
+2. Elija WETH de la lista. 
 
 <p align="center">
 <img src="/assets/WETH_10.png" width="400"/>
 </p>  
 
-1. Enter the amount of WETH to transfer across the bridge.  
-2. Click 'Unlock' to allow the smart-contract permission to interact with your wallet.  
+1. Ingrese la cantidad de WETH para transferir a través del bridge.  
+2. Haga clic en 'Unlock/Desbloquear' para permitir que el permiso del contrato inteligente interactúe con su monedero.  
 
 <p align="center">
 <img src="/assets/WETH_11.png" width="400"/>
 </p>  
 
->Note*** Due to heavy traffic on Ethereum, it is advised to increase the gas fees to improve wait times.  
+> Nota *** Debido al intenso tráfico en Ethereum, se recomienda aumentar las tarifas del gas para reducir los tiempos de espera. 
 
-Click 'Confirm' to finish or click 'Edit' to change gas fees.  
+Haga clic en 'Confirm/Confirmar' para finalizar o haga clic en 'Edit/Editar' para cambiar las tarifas de gas.  
 
 <p align="center">
 <img src="/assets/WETH_12.png" width="400"/>
 </p>  
 
-Depending on network traffic, the transaction could take a few minutes to confirm. If it is stuck on the 'Loading...' screen for over a few minutes, you can reload the page to verify if its unlocked. It is advised that you increase the gas fee to fast or rapid to improve wait time.  
+Dependiendo del tráfico de la red, la transacción puede tardar unos minutos en confirmarse. Si está atascado en la pantalla "Cargando ..." durante unos minutos, puede volver a cargar la página para verificar si está desbloqueada. Se recomienda que aumente la tarifa del gas a fast/rápido para reducir el tiempo de espera.
 
 <p align="center">
 <img src="/assets/WETH_13.png" width="400"/>
 </p>  
 
-Once it is unlocked:  
-1. Enter the amount of WETH you would like to transfer to Velas blockchain.  
-2. Click 'Transfer' to continue.  
+Una vez desbloqueado:
+1. Ingrese la cantidad de WETH que le gustaría transferir a Velas blockchain.
+2. Haga clic en 'Transfer/Transferir' para continuar.
 
 <p align="center">
 <img src="/assets/WETH_14.png" width="400"/>
 </p>  
 
-Confirm the transaction then click 'OK' to continue.  
+Confirme la transacción y luego haga clic en 'Accept/Aceptar' para continuar.
 <p align="center">
 <img src="/assets/WETH_15.png" width="400"/>
 </p>  
 
-Click 'Confirm' to finish or 'Edit' to change gas fees.  
+Haga clic en 'Confirmar' para finalizar o en 'Edit/Editar' para cambiar las tarifas de gas.
 <p align="center">
 <img src="/assets/WETH_16.png" width="400"/>
 </p>  
@@ -298,26 +294,26 @@ Click 'Confirm' to finish or 'Edit' to change gas fees.
 <summary>Transferring WETH on Velas back to Ethereum blockchain.</summary>  
 <br>
 
-From the cross-chain page:  
-1. Click on the menu.  
-2. Click on 'Connected to:'  
+Desde la página de cross-chain:  
+1. Haga clic en el menú.
+2. Haga clic en 'Conectado a:'
 
 <p align="center">
 <img src="/assets/WETH_17.png" width="400"/>
 </p>  
 
-Choose the Velas network.  
+Elija la red Velas.
 <p align="center">
 <img src="/assets/WETH_18.png" width="400"/>
 </p>  
 
-Click 'Connect Wallet' then click on the drop-down list and choose 'WETH'.    
+Haga clic en 'Connect/Conectar Wallet', luego haga clic en la lista desplegable y elija 'WETH'.   
 <p align="center">
 <img src="/assets/WETH_19.png" width="400"/>
 </p>  
 
-1. Enter amount of WETH to be transferred back to the Ethereum network.  
-2. Click 'Transfer' to continue.  
+1. Ingrese la cantidad de WETH que se transferirá de regreso a la red Ethereum. 
+2. Haga clic en 'Transfer/Transferir' para continuar. 
 
 <p align="center">
 <img src="/assets/WETH_20.png" width="400"/>
@@ -328,49 +324,49 @@ Confirm transaction and click 'OK' to continue.
 <img src="/assets/WETH_21.png" width="400"/>
 </p>  
 
-Wait for the transaction to be confirmed. You can also click on the transaction id to track the progress.  
+Espere a que se confirme la transacción. También puede hacer clic en la identificación de la transacción para realizar un seguimiento del progreso.
 <p align="center">
 <img src="/assets/WETH_22.png" width="400"/>
 </p>  
 
-1. Click the menu.  
-2. Click 'Connected to:'.  
+1. Haz clic en el menú.
+2. Haga clic en 'Conectado a:'.
 
 <p align="center">
 <img src="/assets/WETH_23.png" width="400"/>
 </p>  
 
-Choose the Ethereum network.  
+Elija la red Ethereum.
 <p align="center">
 <img src="/assets/WETH_24.png" width="400"/>
 </p>  
 
-Click on 'Wrap/Unwrap ETH' to load the Kyber widget.  
+Haga clic en 'Wrap / Unwrap ETH' para cargar el widget Kyber.
 <p align="center">
 <img src="/assets/WETH_25.png" width="400"/>
 </p>  
 
-Click the 'Swap' button so that the 'From Token' is WETH.  
+Haga clic en el botón 'Swap/Cambiar' para que el 'Desde token' sea WETH. 
 <p align="center">
 <img src="/assets/WETH_26.png" width="400"/>
 </p>  
 
-Enter amount of WETH to be converted to ETH. Checkbox the agreement and click 'Next'.  
+Ingrese la cantidad de WETH para convertir a ETH. Marque la casilla de los términos del acuerdo y haga clic en 'Siguiente'.  
 <p align="center">
 <img src="/assets/WETH_27.png" width="400"/>
 </p>  
 
-Verify transaction then click 'APPROVE' to continue.  
+Verifique la transacción y luego haga clic en 'APPROVE/APROBAR' para continuar.  
 <p align="center">
 <img src="/assets/WETH_28.png" width="400"/>
 </p>  
 
-Click 'Confirm' to finish or 'Edit' to change the gas price.  
+Haga clic en 'Confirm/Confirmar' para finalizar o en 'Edit/Editar' para cambiar el precio del gas. 
 <p align="center">
 <img src="/assets/WETH_29.png" width="400"/>
 </p>  
 
-Click 'CONFIRM' to finish transaction.  
+Haga clic en 'CONFIRM/CONFIRMAR' para finalizar la transacción. 
 <p align="center">
 <img src="/assets/WETH_30.png" width="400"/>
 </p>  
@@ -379,3 +375,4 @@ Click 'CONFIRM' to finish transaction.
 </p> 
 </details>
   
+
