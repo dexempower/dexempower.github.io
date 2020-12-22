@@ -13,3 +13,5 @@ permalink: /
 -   [Guía Rápida Symblox en Smartphones](https://dexempower.github.io/dexempower.github.io-symblox/guides/yield-farming/2020/10/22/symblox-guide-for-mobile)
 
 -   [Guía de Votación en Symblox desde Dispositivos Móviles](https://dexempower.github.io/dexempower.github.io-symblox/guides/voting/2020/11/05/symblox-voting-guide)
+
+-   [Guía Cross-chain para dispositivos móviles](https://github.com/symblox/symblox.github.io/blob/master/_posts/2020-11-27-cross-chain-guide-for-mobile.md)
