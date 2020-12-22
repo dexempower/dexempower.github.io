@@ -20,7 +20,7 @@ Descarga Velas DeFi Wallet en https://symblox.io.
 <summary>Agregar la red de Ethereum.</summary>  
 <br>
   
-Haga clic en la pestaña 'Ajustes', luego elija "Seleccionar redes activas"  
+Haga clic en la pestaña 'Settings/Ajustes', luego elija "Select Active Networks/Seleccionar redes activas"  
 <p align="center">
 <img src="../assets/Bridge_1.png" width="400"/>
 </p>  
@@ -35,7 +35,7 @@ Elija 'Ethereum' y luego haga clic en 'Guardar'.
 <summary>Añadiendo el contrato del token USDT para Ethereum y Velas.</summary>  
 <br>
   
-Haga clic en la pestaña 'Monedero', luego haga clic en 'Añadir / Ocultar tokens'.
+Haga clic en la pestaña 'Wallet/Monedero', luego haga clic en 'Add-Añadir / Hide-Ocultar tokens'.
 
 <p align="center">
 <img src="/assets/Bridge_3.png" width="400"/>
@@ -69,7 +69,7 @@ Dirección del token SYX: **0x2de7063fe77aAFB5b401d65E5A108649Ec577170**
 <summary>Añadiendo el contrato de token WETH para Ethereum y Velas.</summary>  
 <br>
   
-Haga clic en la pestaña 'Wallet/Monedero', luego haga clic en 'Añadir / Ocultar tokens'.
+Haga clic en la pestaña 'Wallet/Monedero', luego haga clic en 'Add-Añadir / Hide-Ocultar tokens'.
 
 <p align="center">
 <img src="/assets/Bridge_3.png" width="400"/>
