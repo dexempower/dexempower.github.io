@@ -9,7 +9,7 @@ categories: guides yield-farming
 <img src="/assets/SymbloxLogoName.png" height="64"/>
 </p>
 
-# Guía Cross-Chain para Móviles
+# Guía Cross-Chain para dispositivos móviles
 
 ##### Instalando Velas Defi Wallet  
 Descarga Velas DeFi Wallet en https://symblox.io.  
